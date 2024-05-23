@@ -1,0 +1,30 @@
+.listbox {
+    border: 1px solid black;
+    width: 650px;
+}
+
+.listDiv{
+  margin: 7px;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+p {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#color1 {
+    background-color: #ac92e9;
+}
+  
+#color2 {
+    background-color: #9ed369;
+  }
+  
+#color3 {
+    background-color: #47cead;
+  }
+  
+#color4 {
+    background-color: #ec87bf;
+}
